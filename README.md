@@ -10,6 +10,7 @@ This is my bot framework written in Go. It's fairly mature and polished and offe
 This one is still in its infancy but _Step Curry_ brings Fitbit steps challenges to slack. Users link their Fitbit accounts and then can challenge colleagues in a channel with ranking updates posted throughout the day. A hosted version is running and can be installed via [this link](https://slack.com/oauth/v2/authorize?client_id=818949993232.874011914615&scope=channels:read,chat:write,commands,users.profile:read,users:read,groups:read,im:read,mpim:read&user_scope=).
 
 Demo (back before the rename from _Roger Challenger_ to _Step Curry_)
+
 ![Step Curry](https://user-images.githubusercontent.com/788439/106548653-3aee5e80-64c4-11eb-8b47-61a690b3095f.gif)
 
 ### [Marco Poller](https://github.com/alexandre-normand/marcopoller)
