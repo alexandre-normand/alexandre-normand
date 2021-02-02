@@ -5,7 +5,6 @@ My name is Alex and I like creating things. Sometimes it's through drawing, some
 ## 😎 Current Projects
 ### [Slackscot](https://github.com/alexandre-normand/slackscot)
 This is my bot framework written in Go. It's fairly mature and polished and offers support for message threading, awareness of updated and deleted messages and concurrent processing of messages (for supporting plugins with slow/IO bound implementations). 
-![slackscot](https://camo.githubusercontent.com/3488fbd3dd3e970e48ab2ec267da875ec9f1f752eab4c64d5dfc7017c2da8492/68747470733a2f2f7777772e64726f70626f782e636f6d2f732f676538703338626c39373775676c642f736c61636b73636f742d7570646174652d73616d652d616374696f6e2e6769663f7261773d31)
 
 ### [Step Curry](https://github.com/alexandre-normand/stepcurry)
 This one is still in its infancy but _Step Curry_ brings Fitbit steps challenges to slack. Users link their Fitbit accounts and then can challenge colleagues in a channel with ranking updates posted throughout the day. A hosted version is running and can be installed via [this link](https://slack.com/oauth/v2/authorize?client_id=818949993232.874011914615&scope=channels:read,chat:write,commands,users.profile:read,users:read,groups:read,im:read,mpim:read&user_scope=).
