@@ -26,7 +26,7 @@ This was my attempt / experiment at mixing behavioral science with diabetes mana
 ## ⚡ Fun Facts About Me: 
  * I learned to live on the road doing that for 1 year with my partner, 2 kids, dog and cat in our 1989 Volkswagen Vanagon.
  
- * I committed to 1 public commit a day when working on [glukit](https://mygluk.it) and got to a 200 days streak before reaching my goal. Yes, I still had a full-time day job and yes, I was pretty tired at the end. 
+ * I committed to making 1 public commit per day when working on [glukit](https://mygluk.it) and got to a 200 days streak before reaching my goal. Yes, I still had a full-time day job and yes, I was pretty tired at the end. 
  
 ![pretty tired](https://media.giphy.com/media/ILgtIcrpEeKU8/giphy.gif)
 
